@@ -7,3 +7,6 @@
 ## Week 4 - Numpy
 1. Pandas
 2. NumPY
+
+## Week 5 - Jupyter Notebook Lab
+
